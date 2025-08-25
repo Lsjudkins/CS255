@@ -1,4 +1,4 @@
-# LatoriaJudkinsCS255
+# CS255
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 DriverPass project was created to train students pass driving test the first time at their local DMV. The client is DriverPass and the system they want to design will be cloud based with the capability of being accessed from anywhere.
